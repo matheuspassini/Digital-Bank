@@ -4,4 +4,4 @@
 
 ___
 
-## The main idea is to simulate a digital bank system that simulates the operation of a bank, with deposit, transfer and loan functions in a bank account. All of them related to an account, user and defined installment.
+## The main idea is to simulate a digital bank system in its operational tasks as deposit, transfer and loan in a bank account. All of them related to an account, user and defined installment.

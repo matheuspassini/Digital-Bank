@@ -1,4 +1,4 @@
-# Digital Bank Application
+# Project Title: Digital Bank Application
 
 ## This initiative was executed as part of the Full Stack JavaScript course, overseen by OneBitCode—an esteemed educational institution. The primary objective of this project was to enhance participants' proficiency in Object-Oriented Programming within the realm of JavaScript.
 

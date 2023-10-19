@@ -1,7 +1,5 @@
 # Digital Bank Application
 
-## This project was developed in the Full Stack JavaScript course, under the control of OneBitCode. OneBitCode is a educational institution and this project aims to develop the skills about Object-Oriented Programming related to this referred programming language.
+## This initiative was executed as part of the Full Stack JavaScript course, overseen by OneBitCode—an esteemed educational institution. The primary objective of this project was to enhance participants' proficiency in Object-Oriented Programming within the realm of JavaScript.
 
-___
-
-## The main idea is to simulate a digital bank system in its operational tasks as deposit, transfer and loan in a bank account. All of them related to an account, user and defined installment.
+## The project centered around simulating the operational tasks of a digital bank system, encompassing functions such as deposits, transfers, and loans within a bank account. These tasks were intricately linked to account management, user interactions, and predefined installment processes. The focus was on creating a realistic simulation of a digital banking environment, emphasizing the application of Object-Oriented Programming principles.
